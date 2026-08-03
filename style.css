@@ -7,7 +7,7 @@ body {
 }
 
 img {
-  max-width: 400px;
+  max-width: 600px;
   width: 90%;
   height: auto;
   display: block;
@@ -17,5 +17,15 @@ img {
 h2, p, ul, ol {
   max-width: 600px;
   margin: 1rem auto;
+  text-align: left;
+}
+
+ul.recipe-list {
+  display: inline-block;
+  max-width: none;
+  text-align: center;
+}
+
+ul.recipe-list li {
   text-align: left;
 }
