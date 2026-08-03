@@ -31,32 +31,32 @@ ul.recipe-list li {
 }
 
 @media (max-width: 600px) {
-body {
-padding: 1rem;
-font-size: 1.2rem;
-}
+  body {
+    padding: 1rem;
+    font-size: 1rem;
+  }
 
-h1 {
-font-size: 2.5rem;
-}
+  h1 {
+    font-size: 1.8rem;
+  }
 
-h2 {
-font-size: 1.6rem;
-}
+  h2 {
+    font-size: 1.3rem;
+  }
 
-img {
-max-width: 100%;
-width: 100%;
-}
+  img {
+    max-width: 100%;
+    width: 100%;
+  }
 
-ul.recipe-list a,
-a {
-font-size: 1.4rem;
-padding: 0.6rem 0;
-display: inline-block;
-}
+  ul.recipe-list a,
+  a {
+    font-size: 1.1rem;
+    padding: 0.4rem 0;
+    display: inline-block;
+  }
 
-p, li {
-font-size: 1.2rem;
-}
+  p, li {
+    font-size: 1rem;
+  }
 }
